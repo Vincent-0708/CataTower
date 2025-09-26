@@ -4,6 +4,8 @@
 An open-source dexterity & strategy stacking game for 2–5 players (ages 8+).
 Build a risky tower with tricky blocks, score points, trigger effects, and survive malus cards — but don’t be the one to make it fall
 
+🇫🇷 French version [here](./README-fr.md) 
+
 ## 🎮 What is CataTower?
 
 CataTower is an open source board game you can make and play at home. It combines:
@@ -15,9 +17,9 @@ CataTower is an open source board game you can make and play at home. It combine
 Play casually with friends and family or in Party Mode 🍻 to turn it into a drinking game!
 
 ## 📦 What’s Included
-- The rules to know how to play [preview here](./editable%20files%20for%20game%20extension/Cards%20and%20rules/rules%20-%20markdown%20file%20-%20en.md) and PDF file [here](./editable%20files%20for%20game%20extension/Cards%20and%20rules/rules%20-%20markdown%20file.md).
+- The rules to know how to play [preview here](./editable%20files%20for%20game%20extension/Paper%20models/rules%20-%20markdown%20file%20-%20en.md) and PDF file [here](./ready%20to%20play%20game/game%20elements%20to%20be%20printed%20on%20paper/rules-en.pdf).
 - The tower building blocks [here](./ready%20to%20play%20game/game%20elements%20to%20be%203d%20printed/).
-- The effect and malus cards [here](./ready%20to%20play%20game/game%20elements%20to%20be%20printed%20on%20paper/effect%20and%20malus%20cards.pdf).
+- The effect and malus cards [here](./ready%20to%20play%20game/game%20elements%20to%20be%20printed%20on%20paper/effect%20and%20malus%20card%20-%20en.pdf).
 
 ## 🚀Quick Start
 
