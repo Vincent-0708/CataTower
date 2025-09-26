@@ -58,7 +58,7 @@ Avec les filaments commandés sur Amazon, le prix d'un jeu est de 5.1€.
 |Total|~1.5kg|~650L|
 
 ## 📜 License 
-Ce projet est sous license CC BY-NC 4.0. Vous pouvez l'utiliser, le partager et l'adapter à vos besoins personnels pour des utilisations non commerciales. L'utilisation commerciale nécessite une permission explicite de la part de Vincent Flattot.
+Ce projet est sous license CC BY-NC-SA 4.0. Vous pouvez l'utiliser, le partager et l'adapter à vos besoins personnels pour des utilisations non commerciales. L'utilisation commerciale nécessite une permission explicite de la part de Vincent Flattot.
 
 ## 🤝 Pour contribuer
 Des idées pour de nouveaux blocs? Des meilleures cartes effet? Une meilleure formulation pour les règles? Des optimisations d'impression? Tous les composants du jeu sont disponibles pour modification [ici](./editable%20files%20for%20game%20extension/)

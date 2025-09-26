@@ -62,7 +62,7 @@ For the filaments I used from Amazon, the price of one game is 5.1€.
 |Total|~1.5kg|~650L|
 
 ## 📜 Licence 
-This project is licensed under CC BY-NC 4.0. You may use, share, and adapt it for personal and non-commercial purposes. Commercial use requires explicit permission.
+This project is licensed under CC BY-NC-SA 4.0. You may use, share, and adapt it for personal and non-commercial purposes. Commercial use requires explicit permission.
 
 ## 🤝 Contributing
 
