@@ -58,8 +58,8 @@ For the filaments I used from Amazon, the price of one game is 5.1€.
 |PLA filament production| 3.5kg/kg of PLA * 0,303kg CO2 [source](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12618) | 2000L/kg of PLA * 0.303kg [source](https://www.utwente.nl/en/et/cem/education/assignments/finished-msc-assignments/finished_graduation_projects/wem-msc-thesis/2018/putri.pdf)|
 |Transport of PLA filament| 1.075kg/kg shipped * 0,303kg [source](https://www.oliverwyman.com/our-expertise/insights/2023/may/delivery-decarbonization-pathway.html)|unable to find data|
 |3D printing (with Prusa Mini+ in France)| 0.000056kg/Wh used * 80W * 12h48 [source](https://fr.statista.com/infographie/33063/intensite-carbone-production-electricite-par-pays-en-europe/)|-|
-|Paper printing| 0.005kg/page * 4pages [source](https://www.ezeep.com/co2-neutral-printing/) | 10L/page * 4 page [source](https://waterfootprint.org/resources/Report46-WaterFootprintPaper.pdf)|
-|Total|~1.5kg|~650L|
+|Paper printing| 0.005kg/page * 7 pages [source](https://www.ezeep.com/co2-neutral-printing/) | 10L/page * 7 pages [source](https://waterfootprint.org/resources/Report46-WaterFootprintPaper.pdf)|
+|Total|~1.5kg|~680L|
 
 ## 📜 Licence 
 This project is licensed under CC BY-NC-SA 4.0. You may use, share, and adapt it for personal and non-commercial purposes. Commercial use requires explicit permission.

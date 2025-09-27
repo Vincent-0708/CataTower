@@ -54,8 +54,8 @@ Avec les filaments commandés sur Amazon, le prix d'un jeu est de 5.1€.
 |Production filament PLA| 3.5kg/kg de PLA * 0,303kg CO2 [source](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12618)|2000L/kg de PLA * 0.303kg [source](https://www.utwente.nl/en/et/cem/education/assignments/finished-msc-assignments/finished_graduation_projects/wem-msc-thesis/2018/putri.pdf)|
 |Transport filament PLA| 1.075kg/kg livré * 0,303kg [source](https://www.oliverwyman.com/our-expertise/insights/2023/may/delivery-decarbonization-pathway.html)|pas de données disponibles|
 |Impression 3D (Prusa Mini+ en France)| 0.000056kg/Wh utilisé * 80W * 12h48 [source](https://fr.statista.com/infographie/33063/intensite-carbone-production-electricite-par-pays-en-europe/)|-|
-|Impression papier| 0.005kg/page * 4pages [source](https://www.ezeep.com/co2-neutral-printing/)|10L/page * 4 page [source](https://waterfootprint.org/resources/Report46-WaterFootprintPaper.pdf)|
-|Total|~1.5kg|~650L|
+|Impression papier| 0.005kg/page * 7 pages [source](https://www.ezeep.com/co2-neutral-printing/)|10L/page * 7 page [source](https://waterfootprint.org/resources/Report46-WaterFootprintPaper.pdf)|
+|Total|~1.5kg|~680L|
 
 ## 📜 License 
 Ce projet est sous license CC BY-NC-SA 4.0. Vous pouvez l'utiliser, le partager et l'adapter à vos besoins personnels pour des utilisations non commerciales. L'utilisation commerciale nécessite une permission explicite de la part de Vincent Flattot.

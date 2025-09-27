@@ -3,7 +3,7 @@ Transformez CataTower en le jeu parfait pour vos soirées! Avec seulement quelqu
 
 ## 🎮 Adaptation des règles
 
-Ajoutez aux cartes du mode standard les cartes effet et malus avec le symbole 🍺 sur le verso.
+Enlevez les cartes effet et malus avec le symbole ♟️sur le verso et ajoutez celles avec le symbole 🍺.
 
 Il n'y a plus de compte de points, dès que vous réussissez à placer un bloc sur la tour:
 
