@@ -25,8 +25,9 @@ Jouez en famille ou entre amis à la version standard ou explorez le mode soiré
 4. Commencez à empiler en esperant que la tour survive.
 
 ## 📸 Preview
-<img src="./pictures/game%20setup%20example.jpg" width="400" height="400" />
-<img src="./pictures/game%20setup%20example%202.jpg" width="400" height="400" />
+<img src="./pictures/game%20setup%20example.jpg" width="300" height="300" />
+<img src="./pictures/game%20setup%20example%202.jpg" width="300" height="300" />
+<img src="./pictures/game%20setup%20example%203.jpg" width="300" height="375" />
 
 ## 🧮Estimations coûts et impact
 

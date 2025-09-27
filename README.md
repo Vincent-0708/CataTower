@@ -30,8 +30,9 @@ Play casually with friends and family or in Party Mode 🍻 to turn it into a dr
 4. Start stacking and hope the tower survives.
 
 ## 📸 Preview
-<img src="./pictures/game%20setup%20example.jpg" width="400" height="400" />
-<img src="./pictures/game%20setup%20example%202.jpg" width="400" height="400" />
+<img src="./pictures/game%20setup%20example.jpg" width="300" height="300" />
+<img src="./pictures/game%20setup%20example%202.jpg" width="300" height="300" />
+<img src="./pictures/game%20setup%20example%203.jpg" width="300" height="375" />
 
 ## 🧮 Estimated costs and impact
 **💰 Estimated costs**
